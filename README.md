@@ -17,6 +17,8 @@ Link : [https://cryptostalker04.netlify.app/](https://cryptostalker04.netlify.ap
 ## Preview 
    ![Screenshot 2024-11-24 012242](https://github.com/user-attachments/assets/76038ece-0e63-4318-8390-05c193ea935c)
    ![Screenshot 2024-11-24 012329](https://github.com/user-attachments/assets/67cab527-282b-4c36-be6c-4435080db807)
+   ![Screenshot 2024-11-24 012305](https://github.com/user-attachments/assets/6c8c5f8e-4f61-49c9-8485-d83ec0284ec0)
+
 
 ## Tech Stack
 
