@@ -15,7 +15,7 @@ Link : [https://cryptostalker04.netlify.app/](https://cryptostalker04.netlify.ap
 - **Interactive Chart:** View price trends over time with Chart.js, providing a clear visual representation of price fluctuations.
   
 ## Preview 
-
+   ![Screenshot 2024-11-24 012242](https://github.com/user-attachments/assets/76038ece-0e63-4318-8390-05c193ea935c)
 ## Tech Stack
 
 - **Frontend:** React.js, Chart.js, React Router DOM, CSS (Custom Styling)
