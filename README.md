@@ -2,6 +2,10 @@
 
 **Crypto Stalker** is a cryptocurrency price-checking web application built with React.js. Users can search for cryptocurrencies, view real-time data like the current price, 24-hour price changes, and market capitalization. The app also offers historical data and interactive charts powered by Chart.js for past 24 hours, 30 days, 3 months, and 1 year.
 
+
+## Live Demo
+Link : [https://cryptostalker04.netlify.app/](https://cryptostalker04.netlify.app/)
+
 ## Features
 
 - **Search and Suggestions:** Users can search for any cryptocurrency, with real-time suggestions as they type.
