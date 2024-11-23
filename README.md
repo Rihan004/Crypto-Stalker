@@ -13,6 +13,8 @@ Link : [https://cryptostalker04.netlify.app/](https://cryptostalker04.netlify.ap
 - **Historical Data Charts:** View interactive charts showing the historical price data for the past 24 hours, 30 days, 3 months, or 1 year.
 - **Currency Conversion:** Easily switch between different currencies (USD, INR, EUR, etc.) to view prices in your preferred unit.
 - **Interactive Chart:** View price trends over time with Chart.js, providing a clear visual representation of price fluctuations.
+  
+## Preview 
 
 ## Tech Stack
 
