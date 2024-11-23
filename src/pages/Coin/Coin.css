@@ -1,0 +1,83 @@
+.coin {
+    display: flex;
+    gap: 2rem;
+    color: white;
+    background-color: #14161a;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .coin-details {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .coin-details img {
+    width: 150px;
+    margin-bottom: 1rem;
+  }
+  
+  .coin-details h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffd700;
+  }
+  
+  .coin-details .description {
+    margin: 1rem 0;
+  }
+  
+  .coin-chart {
+    flex: 2;
+  }
+  
+  .time-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+  }
+  
+  .time-buttons button {
+    padding: 0.5rem 1rem;
+    background-color: #ffd700;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: transform 0.2s;
+  }
+  
+  .time-buttons button.active {
+    background-color: black;
+    color: #ffd700;
+    border: 2px solid #ffd700;
+  }
+  
+  .time-buttons button:hover {
+    transform: scale(1.1);
+  }
+  
+
+.spinner{
+    display: grid;
+    place-self: center;
+    min-height: 80vh;
+
+}
+
+.spin{
+    width: 75px;
+    height: 75px;
+    place-self: center;
+    border: 5px solid #bdbdbd;
+    border-top-color: gold;
+    border-radius: 50%;
+    animation: rotate 2s infinite;
+}
+
+@keyframes rotate{
+    100%{
+        transform: rotate(360deg);
+    }
+}
